@@ -4,7 +4,7 @@ dev-python/awkward0 0.15.2: Manipulate arrays of complex data structures as easi
 dev-python/awkward1 1.0.0: Manipulate JSON-like data with NumPy-like idioms.
 dev-python/bash_kernel 0.7.2: A bash kernel for Jupyter
 dev-python/certipy 0.1.3: Utility to create and sign CAs and certificates
-dev-python/cupy 10.0.0 10.6.0: CuPy: A NumPy-compatible array library accelerated by CUDA
+dev-python/cupy 10.0.0 10.6.0 11.0.0: CuPy: A NumPy-compatible array library accelerated by CUDA
 dev-python/dataclasses 0.8: A backport of the dataclasses module for Python 3.6
 dev-python/datatable 0.11.0: Python library for fast multi-threaded data manipulation and munging.
 dev-python/ecos 2.0.7_p1: Embedded Cone Solver.
