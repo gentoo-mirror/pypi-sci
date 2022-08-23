@@ -20,6 +20,7 @@ dev-python/jupyter_core 4.6.3: Jupyter core package. A base package on which Jup
 dev-python/jupyter_telemetry 0.1.0: Jupyter telemetry library
 dev-python/jupyterhub 1.3.0 2.0.0: JupyterHub: A multi-user server for Jupyter notebooks
 dev-python/jupyterhub-nativeauthenticator 0.0.6 1.0.5: JupyterHub Native Authenticator
+dev-python/lightgbm 3.3.2: LightGBM Python Package
 dev-python/matlab_kernel 0.16.9: 
 dev-python/metakernel 0.27.0: Metakernel for Jupyter
 dev-python/mpl_axes_aligner 1.1: Align the plotting range of matplotlib axes.
