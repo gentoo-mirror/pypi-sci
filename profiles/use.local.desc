@@ -6,5 +6,4 @@ dev-python/cupy:cuda - Enable support for nVidia CUDA
 dev-python/cupy:cudnn - Enable support for nVidia cuDNN library
 dev-python/cupy:float19 - Use float19 to fake float32, also advertised as tensor float32 by nVidia.
 dev-python/cupy:rocm - Enable AMD ROCm
-dev-python/jaxlib:cuda - enable cuda backend
 dev-python/lightgbm:dask - Use dask for calculation.
