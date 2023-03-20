@@ -9,7 +9,7 @@ dev-python/dataclasses 0.8: A backport of the dataclasses module for Python 3.6
 dev-python/datatable 0.11.0: Python library for fast multi-threaded data manipulation and munging.
 dev-python/duckdb 0.6.1: DuckDB embedded database
 dev-python/ecos 2.0.7_p1: Embedded Cone Solver.
-dev-python/fastrlock 0.8: Fast, re-entrant optimistic lock implemented in Cython
+dev-python/fastrlock 0.8.1: Fast, re-entrant optimistic lock implemented in Cython
 dev-python/hepunits 2.2.0: Units and constants in the HEP system of units
 dev-python/ipympl 0.8.4: Matplotlib Jupyter Extension
 dev-python/jax 0.2.9 0.2.12 0.2.26: Differentiate, compile, and transform Numpy code.
