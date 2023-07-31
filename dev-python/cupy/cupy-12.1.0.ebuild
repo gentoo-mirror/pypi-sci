@@ -33,7 +33,7 @@ DEPEND="
 		>=sci-libs/hipBLAS-${ROCM_VERSION}[${ROCM_USEDEP}]
 		>=sci-libs/hipCUB-${ROCM_VERSION}[${ROCM_USEDEP}]
 		>=sci-libs/hipFFT-${ROCM_VERSION}[${ROCM_USEDEP}]
-		>=sci-libs/rocRAND-${ROCM_VERSION}[${ROCM_USEDEP}]
+		>=sci-libs/hipRAND-${ROCM_VERSION}[${ROCM_USEDEP}]
 		>=sci-libs/rocThrust-${ROCM_VERSION}[${ROCM_USEDEP}]
 		>=sci-libs/hipSPARSE-${ROCM_VERSION}[${ROCM_USEDEP}] )"
 RDEPEND=">=dev-python/fastrlock-0.8.1
@@ -41,7 +41,7 @@ RDEPEND=">=dev-python/fastrlock-0.8.1
 
 distutils_enable_tests pytest
 
-PATCHES=( "${FILESDIR}"/cupy-11.6-add_dir.patch
+PATCHES=( "${FILESDIR}"/${PN}-11.6-add_dir.patch
 	"${FILESDIR}"/${PN}-12.1.0-reenable-HCC_AMDGPU_TARGET.patch )
 
 src_prepare ()
