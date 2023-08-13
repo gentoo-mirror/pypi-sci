@@ -4,18 +4,18 @@
 EAPI=8
 
 PYTHON_COMPAT=( python3_{9..11} )
-
+DISTUTILS_USE_PEP517=hatchling
 inherit distutils-r1 pypi
 
-DESCRIPTION="Manipulate JSON-like data with NumPy-like idioms."
+DESCRIPTION="ROOT I/O in pure Python and NumPy."
 SRC_URI="$(pypi_sdist_url "${PN^}" "${PV}")"
-HOMEPAGE="https://github.com/scikit-hep/awkward-1.0"
+HOMEPAGE="https://github.com/scikit-hep/uproot4"
 
 LICENSE="BSD"
 SLOT="0"
 KEYWORDS="~amd64"
 
 IUSE=""
-RDEPEND="dev-python/setuptools[${PYTHON_USEDEP}]
-	>=dev-python/numpy-1.13.1[${PYTHON_USEDEP}]"
+RDEPEND="dev-python/awkward[${PYTHON_USEDEP}]
+	dev-python/numpy[${PYTHON_USEDEP}]"
 distutils_enable_tests pytest
