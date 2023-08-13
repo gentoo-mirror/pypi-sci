@@ -17,14 +17,14 @@ dev-python/json5 0.9.5: A Python implementation of the JSON5 data format.
 dev-python/jupyter_client 8.2.0: it has been replaced by jupyter-client::gentoo, keep it for IRkernel
 dev-python/jupyter_console 6.2.0: Jupyter terminal console
 dev-python/jupyter_telemetry 0.1.0: Jupyter telemetry library
-dev-python/jupyterhub 2.0.0-r1 4.0.0: JupyterHub: A multi-user server for Jupyter notebooks
-dev-python/jupyterhub-nativeauthenticator 0.0.6 1.0.5: JupyterHub Native Authenticator
+dev-python/jupyterhub 4.0.0: JupyterHub: A multi-user server for Jupyter notebooks
+dev-python/jupyterhub-nativeauthenticator 1.2.0: JupyterHub Native Authenticator
 dev-python/lightgbm 3.3.2: LightGBM Python Package
 dev-python/matlab_kernel 0.16.9: 
 dev-python/metakernel 0.27.0: Metakernel for Jupyter
 dev-python/mpl_axes_aligner 1.1: Align the plotting range of matplotlib axes.
 dev-python/nbclassic 0.2.6: Jupyter Notebook as a Jupyter Server Extension.
-dev-python/numba-scipy 0.3.0 0.3.0_p20220123: numba-scipy extends Numba to make it aware of SciPy
+dev-python/numba-scipy 0.3.1: numba-scipy extends Numba to make it aware of SciPy
 dev-python/numpyro 0.5.0: Pyro PPL on NumPy
 dev-python/onetimepass 1.0.1: Module for generating and validating HOTP and TOTP tokens
 dev-python/pamela 1.0.0: PAM interface using ctypes
