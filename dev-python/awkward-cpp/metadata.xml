@@ -5,7 +5,6 @@
 		<email>heroxbd@gentoo.org</email>
 	</maintainer>
 	<upstream>
-		<remote-id type="github">scikit-hep/awkward</remote-id>
-		<remote-id type="pypi">awkward</remote-id>
+		<remote-id type="pypi">awkward-cpp</remote-id>
 	</upstream>
 </pkgmetadata>
