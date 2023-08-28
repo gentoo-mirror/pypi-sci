@@ -16,7 +16,7 @@ dev-python/json5 0.9.5: A Python implementation of the JSON5 data format.
 dev-python/jupyter_client 8.2.0: it has been replaced by jupyter-client::gentoo, keep it for IRkernel
 dev-python/jupyter_console 6.2.0: Jupyter terminal console
 dev-python/jupyter_telemetry 0.1.0: Jupyter telemetry library
-dev-python/jupyterhub 4.0.0: JupyterHub: A multi-user server for Jupyter notebooks
+dev-python/jupyterhub 4.0.0-r1: JupyterHub: A multi-user server for Jupyter notebooks
 dev-python/jupyterhub-nativeauthenticator 1.2.0: JupyterHub Native Authenticator
 dev-python/lightgbm 3.3.2: LightGBM Python Package
 dev-python/matlab_kernel 0.16.9: 
