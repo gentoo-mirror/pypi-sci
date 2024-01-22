@@ -32,6 +32,7 @@ dev-python/python-json-logger 2.0.1: A python library adding a json log formatte
 dev-python/robustats 0.1.7: Library for high-performance computation of robust statistical estimators.
 dev-python/stockwell 1.1: Stockwell transform for Python
 dev-python/traits 6.1.1: Observable typed attributes for Python classes
+dev-python/tweedie 0.0.9: Tweedie distribution estimations of pdf and cdf
 dev-python/unidip 0.1.1: Python port of the UniDip clustering algorithm
 dev-python/uproot 5.0.11: ROOT I/O in pure Python and NumPy.
 dev-python/uproot3 3.14.2: ROOT I/O in pure Python and Numpy.
