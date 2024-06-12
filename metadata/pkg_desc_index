@@ -12,12 +12,13 @@ dev-python/duckdb 0.10.2: DuckDB embedded database
 dev-python/ecos 2.0.7_p1: Embedded Cone Solver.
 dev-python/fastrlock 0.8.1: Fast, re-entrant optimistic lock implemented in Cython
 dev-python/hepunits 2.2.0: Units and constants in the HEP system of units
-dev-python/ipympl 0.8.4 0.9.3: Matplotlib Jupyter Extension
+dev-python/ipympl 0.9.4: Matplotlib Jupyter Extension
 dev-python/jax 0.2.9 0.2.12 0.2.26: Differentiate, compile, and transform Numpy code.
 dev-python/json5 0.9.5: A Python implementation of the JSON5 data format.
 dev-python/jupyter_telemetry 0.1.0: Jupyter telemetry library
 dev-python/jupyterhub 4.0.0-r1: JupyterHub: A multi-user server for Jupyter notebooks
 dev-python/jupyterhub-nativeauthenticator 1.2.0: JupyterHub Native Authenticator
+dev-python/jupyterlab-widgets 3.0.11: Jupyter interactive widgets for JupyterLab
 dev-python/lightgbm 3.3.2: LightGBM Python Package
 dev-python/matlab_kernel 0.16.9: 
 dev-python/metakernel 0.27.0: Metakernel for Jupyter
