@@ -5,7 +5,7 @@
 		<email>heroxbd@gentoo.org</email>
 	</maintainer>
 	<upstream>
-		<remote-id type="github">scikit-hep/uproot4</remote-id>
-		<remote-id type="pypi">Uproot</remote-id>
+		<remote-id type="github">intake/akimbo</remote-id>
+		<remote-id type="pypi">awkward-pandas</remote-id>
 	</upstream>
 </pkgmetadata>
