@@ -7,6 +7,7 @@ dev-python/cupy 12.2.0-r2 13.1.0: CuPy: A NumPy-compatible array library acceler
 dev-python/cython 0.29.37.1-r1: A Python to C compiler
 dev-python/dataclasses 0.8: A backport of the dataclasses module for Python 3.6
 dev-python/datatable 0.11.0: Python library for fast multi-threaded data manipulation and munging.
+dev-python/diptest 0.8.0: Hartigan's diptest.
 dev-python/duckdb 0.10.2: DuckDB embedded database
 dev-python/ecos 2.0.7_p1: Embedded Cone Solver.
 dev-python/fastrlock 0.8.1: Fast, re-entrant optimistic lock implemented in Cython
@@ -18,6 +19,7 @@ dev-python/jupyter_telemetry 0.1.0: Jupyter telemetry library
 dev-python/jupyterhub 4.0.0-r1: JupyterHub: A multi-user server for Jupyter notebooks
 dev-python/jupyterhub-nativeauthenticator 1.2.0: JupyterHub Native Authenticator
 dev-python/jupyterlab-widgets 3.0.11: Jupyter interactive widgets for JupyterLab
+dev-python/kmeans1d 0.4.0: A Python package for optimal 1D k-means clustering
 dev-python/lightgbm 3.3.2: LightGBM Python Package
 dev-python/matlab_kernel 0.16.9: 
 dev-python/metakernel 0.27.0: Metakernel for Jupyter
