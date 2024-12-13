@@ -33,6 +33,7 @@ dev-python/numpyro 0.5.0: Pyro PPL on NumPy
 dev-python/onetimepass 1.0.1: Module for generating and validating HOTP and TOTP tokens
 dev-python/pamela 1.0.0: PAM interface using ctypes
 dev-python/particle 0.20.0: Extended PDG particle data and MC identification codes
+dev-python/pygam 0.9.1: 
 dev-python/python-json-logger 2.0.1: A python library adding a json log formatter
 dev-python/robustats 0.1.7: Library for high-performance computation of robust statistical estimators.
 dev-python/stockwell 1.1: Stockwell transform for Python
