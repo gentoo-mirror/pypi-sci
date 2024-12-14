@@ -36,6 +36,8 @@ dev-python/particle 0.20.0: Extended PDG particle data and MC identification cod
 dev-python/pygam 0.9.1: 
 dev-python/python-json-logger 2.0.1: A python library adding a json log formatter
 dev-python/robustats 0.1.7: Library for high-performance computation of robust statistical estimators.
+dev-python/rpy2-arrow 0.1.2: Bridge Arrow between Python and R when using rpy2
+dev-python/rpy2-r6 0.0.1: Mapping the R package R6
 dev-python/stockwell 1.1: Stockwell transform for Python
 dev-python/timm 0.9.16: PyTorch Image Models
 dev-python/traits 6.1.1: Observable typed attributes for Python classes
