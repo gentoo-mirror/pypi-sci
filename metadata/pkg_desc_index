@@ -11,7 +11,7 @@ dev-python/dask-expr 1.1.16: High Level Expressions for Dask
 dev-python/dataclasses 0.8: A backport of the dataclasses module for Python 3.6
 dev-python/datatable 0.11.0: Python library for fast multi-threaded data manipulation and munging.
 dev-python/diptest 0.8.0: Hartigan's diptest.
-dev-python/duckdb 0.10.2: DuckDB embedded database
+dev-python/duckdb 0.10.2 1.2.0: DuckDB embedded database
 dev-python/ecos 2.0.7_p1: Embedded Cone Solver.
 dev-python/fastrlock 0.8.2: Fast, re-entrant optimistic lock implemented in Cython
 dev-python/hepunits 2.2.0: Units and constants in the HEP system of units
@@ -25,6 +25,7 @@ dev-python/jupyterlab-widgets 3.0.11: Jupyter interactive widgets for JupyterLab
 dev-python/kmeans1d 0.4.0: A Python package for optimal 1D k-means clustering
 dev-python/lightgbm 4.5.0: LightGBM Python Package
 dev-python/matlab_kernel 0.16.9: 
+dev-python/memray 1.15.0: A memory profiler for Python applications
 dev-python/metakernel 0.27.0: Metakernel for Jupyter
 dev-python/mpl_axes_aligner 1.1: Align the plotting range of matplotlib axes.
 dev-python/nbclassic 0.2.6: Jupyter Notebook as a Jupyter Server Extension.
@@ -39,6 +40,7 @@ dev-python/robustats 0.1.7: Library for high-performance computation of robust s
 dev-python/rpy2-arrow 0.1.2: Bridge Arrow between Python and R when using rpy2
 dev-python/rpy2-r6 0.0.1: Mapping the R package R6
 dev-python/stockwell 1.1: Stockwell transform for Python
+dev-python/textual 0.44.0: Modern Text User Interface framework
 dev-python/timm 0.9.16: PyTorch Image Models
 dev-python/traits 6.1.1: Observable typed attributes for Python classes
 dev-python/tweedie 0.0.9: Tweedie distribution estimations of pdf and cdf
